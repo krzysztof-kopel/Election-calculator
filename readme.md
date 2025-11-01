@@ -1,5 +1,7 @@
 # Kalkulator wyborczy
+
 Kalkulator pozwala na przeliczenie uzsykanej liczby głosów na liczbę mandatów w parlamencie (metodą d'Hondta).
+
 ![img.png](img/img.png)
 
 ## Wejście
